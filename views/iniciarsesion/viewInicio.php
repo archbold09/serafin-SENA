@@ -62,7 +62,8 @@ session_start();
                   <div class="text-center">
                     <img src="../../assets/img/logo.png" class="mb-3 img-fluid" alt="">
                     <p class="text-gray-900"> <b> SIMULADOR PARA EL APRENDIZAJE DE EDUCACIÓN FINANCIERA </b> </p>
-                    <h1 class="h4 text-gray-900 mb-4">SENA - <b> SERAFIN </b> </h1>
+                    <h1 class="h4 text-gray-900 mb-4"> <b> SERAFIN </b> </h1>
+                    <!-- <h1 class="h4 text-gray-900 mb-4">SENA - <b> SERAFIN </b> </h1> -->
                   </div>
 
                   <div class="input-group mb-3">
@@ -113,7 +114,8 @@ session_start();
       <div class="footer-bottom">
         <div class="row align-items-center">
           <p class="col-lg-8 col-sm-12 footer-text m-0 text-center text-lg-left">
-            Copyright &copy;<script>document.write(new Date().getFullYear());</script> Todos los derechos reservados | SENA - SERAFIN 
+          Copyright &copy;<script>document.write(new Date().getFullYear());</script> Todos los derechos reservados | SERAFIN 
+          <!-- Copyright &copy;<script>document.write(new Date().getFullYear());</script> Todos los derechos reservados | SENA - SERAFIN  -->
           </p>
           <div class="col-lg-4 col-sm-12 footer-social text-center text-lg-right">
             <a href="#"><i class="fab fa-facebook-f"></i></a>

@@ -5,7 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   
-  <title>SERAFIN - SENA</title>
+  <title>SERAFIN</title>
+  <!-- <title>SERAFIN - SENA</title> -->
 
 	<link rel="icon" href="./assets/img/favicon.png" type="image/png">
   <link rel="stylesheet" href="vendors/bootstrap/bootstrap.min.css">
@@ -213,19 +214,22 @@
   <footer class="footer-area">
     <div class="container">
       <div class="row">
-        <div class="col-lg-6 col-md-6 col-sm-6">
+        <div class="col-lg-12 col-md-12 col-sm-12">
           <img src="./assets/img/logo.png" class="img-fluid" width="400" alt="">
         </div>							
-        <div class="col-lg-6 col-md-6 col-sm-6">
+        <!-- <div class="col-lg-6 col-md-6 col-sm-6">
           <img src="./assets/img/logosennova.png" class="img-fluid" width="400" alt="">
-        </div>					
+        </div>					 -->
       </div>
 
       <div class="footer-bottom">
         <div class="row align-items-center">
           <p class="col-lg-8 col-sm-12 footer-text m-0 text-center text-lg-left">
-            Copyright &copy;<script>document.write(new Date().getFullYear());</script> Todos los derechos reservados | SENA - SERAFIN 
+            Copyright &copy;<script>document.write(new Date().getFullYear());</script> Todos los derechos reservados | SERAFIN 
           </p>
+          <!-- <p class="col-lg-8 col-sm-12 footer-text m-0 text-center text-lg-left">
+            Copyright &copy;<script>document.write(new Date().getFullYear());</script> Todos los derechos reservados | SENA - SERAFIN 
+          </p> -->
           <div class="col-lg-4 col-sm-12 footer-social text-center text-lg-right">
             <a href="#"><i class="fab fa-facebook-f"></i></a>
             <a href="#"><i class="fab fa-twitter"></i></a>
